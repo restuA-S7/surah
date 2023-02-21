@@ -17,7 +17,7 @@
     "album": "ayat",
     "track": "ayatPlay",
     "year": 2022,
-    "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan.jpg",
     "src": "https://github.com/restuA-S7/surah/raw/main/080002.mp3"
     },
     {
@@ -27,8 +27,78 @@
     "album": "ayat",
     "track": "ayatPlay",
     "year": 2022,
-    "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan2.jpg",
     "src": "https://github.com/restuA-S7/surah/raw/main/080003.mp3"
+    },
+    {
+    "id": 4,
+    "title": "Abasa Ayat 4",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan3.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080004.mp3"
+    },
+    {
+    "id": 5,
+    "title": "Abasa Ayat 5",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan4.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080005.mp3"
+    },
+    {
+    "id": 6,
+    "title": "Abasa Ayat 6",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080006.mp3"
+    },
+    {
+    "id": 7,
+    "title": "Abasa Ayat 7",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan2.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080007.mp3"
+    },
+    {
+    "id": 8,
+    "title": "Abasa Ayat 8",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/masjid.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080008.mp3"
+    },
+    {
+    "id": 9,
+    "title": "Abasa Ayat 9",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan3.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080009.mp3"
+    },
+    {
+    "id": 10,
+    "title": "Abasa Ayat 10",
+    "artist": "Imam Mishary",
+    "album": "ayat",
+    "track": "ayatPlay",
+    "year": 2022,
+    "img_src": "https://github.com/restuA-S7/test/raw/main/pemandangan4.jpg",
+    "src": "https://github.com/restuA-S7/surah/raw/main/080010.mp3"
     }
   ],
   "profile": {
